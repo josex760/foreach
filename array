@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+</php
 public class ArrayDemo {
     public static void main(String[] args) {
         int[] anArray;	        // declare an array of integers
